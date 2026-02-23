@@ -46,6 +46,7 @@ Pickle (for model serialization)
 
 📂 Project Structure
 AD-main/
+
 │
 ├── main.py                 # Streamlit application
 ├── finalized_model.pickle  # Trained ML model
@@ -53,6 +54,7 @@ AD-main/
 ├── requirements.txt        # Dependencies
 ├── image.webp              # App banner image
 └── README.md               # Project documentation
+
 #  How to Run Locally
 
 Clone the repository
